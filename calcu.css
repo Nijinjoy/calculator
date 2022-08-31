@@ -1,0 +1,60 @@
+.col1{
+    width: 255px;
+    height: 343px;
+    background-color: black;
+    border-radius: -156px;
+    margin-left: 411px;
+}
+button{
+    width: 62px;
+    height: 44px;
+    margin-top: 2px;
+    border-radius: 30px;
+    margin-right: -4px
+}
+#id1{
+    width: 50px;
+    height: 15px;
+}
+#id2{
+    width: 122px;
+}
+#id3{
+    background-color: yellow;
+}
+#id4{
+    background-color: yellow;
+}
+#id5{
+    background-color: yellow;
+}
+#id6{
+    background-color: yellow;
+}
+#id7{
+    background-color: yellow;
+}
+#col1{
+    background-color: wheat;
+}
+#col2{
+    background-color: wheat;
+}
+#col3{
+    background-color: wheat;
+}
+#n1{
+    border-top: 10px;
+    bottom: px;
+}
+#answer{
+    width: 179px;
+    height: 2px;
+    padding: 20px 30px;
+            font-size: 24px;
+            font-weight: bold;
+            border: none;
+            border-radius: 5px;
+            border: 2px solid black;
+            margin-top: 8px;
+}
