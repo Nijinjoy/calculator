@@ -2,7 +2,7 @@
     width: 255px;
     height: 343px;
     background-color: black;
-    border-radius: -156px;
+    border-radius: 17px;
     margin-left: 411px;
 }
 button{
@@ -17,7 +17,7 @@ button{
     height: 15px;
 }
 #id2{
-    width: 122px;
+    width: 126px;
 }
 #id3{
     background-color: yellow;
@@ -48,13 +48,13 @@ button{
     bottom: px;
 }
 #answer{
-    width: 179px;
-    height: 2px;
+    width: 173px;
+    height: -13px;
     padding: 20px 30px;
             font-size: 24px;
             font-weight: bold;
             border: none;
-            border-radius: 5px;
+            border-radius: 15px;
             border: 2px solid black;
-            margin-top: 8px;
+            margin-left: 10px;
 }
